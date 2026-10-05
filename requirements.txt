@@ -1,0 +1,5 @@
+discord.py>=2.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+aniworld>=5.2.0
+mega.py>=1.0.8
